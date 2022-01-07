@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-essential-training",
+  "version": "1.0.0",
+  "description": "course example files from [LinkedIn learning](https://www.linkedin.com/learning/node-js-essential-training-2 \"Node.Js Essential Training 2\")",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Al3nMicL/NodeJs-Essential-Training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Al3nMicL/NodeJs-Essential-Training/issues"
+  },
+  "homepage": "https://github.com/Al3nMicL/NodeJs-Essential-Training#readme"
+}
