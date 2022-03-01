@@ -1,6 +1,6 @@
 const fs = require("fs");
-
-fs.readdir("./assets", (err, files) => {
+// asynchronous function call
+fs.readdir("./assets", (err, files) => { // this method is non-blocking
   if (err) {
     throw err;
   }
